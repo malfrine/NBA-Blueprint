@@ -5,9 +5,13 @@ The objective of this study is to build an NBA roster that wins the maximum numb
 ## Scripts
 
 "sym_ansol.m" - The optimization problem was developed using the symbolic package in MATLAB and solved using analytical solvers
+
 "sym_numsol.m" - The optimization problem was developed using the symbolic package in MATLAB and solved using numerical solvers
+
 "num_numsol.m" - The optimization problem was developed using the numerical optimization package in MATLAB 
+
 "objfun.m" - Provides the objective function for "num_numsol.m"
+
 "confuneq.m" - Provides the constraint equations for "num_numsol.m"
 
 ## Analysis
