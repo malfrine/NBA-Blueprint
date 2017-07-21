@@ -1,5 +1,6 @@
-# # The Blueprint - Building a Winning NBA Roster
+# The Blueprint - Building a Winning NBA Roster
 
+## Overview
 The objective of this study is to build an NBA roster that wins the maximum number of games possible in a season while adhering to payroll constraints. In this repository, the scripts used to maximize the objective function can be found. Analytical and numerical methods were used.
 
 ## Scripts
