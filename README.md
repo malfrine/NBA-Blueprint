@@ -17,7 +17,7 @@ The objective of this study is to build an NBA roster that wins the maximum numb
 
 ## Analysis
 
-The write-up and analysis for this project can be found at: https://drive.google.com/file/d/0B_dqY94E1SorTmZPYUtJZGFZTVk/view
+The write-up and analysis for this project can be found at: https://goo.gl/9Jfsys
 
 
 
